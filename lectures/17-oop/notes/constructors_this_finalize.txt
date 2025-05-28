@@ -71,3 +71,5 @@ the super class constructor by default. If we have a parameterised constructor i
 default super class constructor by default. In this case, if the super class does not have a default constructor,
 instead it has a parameterised constructor, then the derived class constructor should call explicitly call the
 parameterised super class constructor.
+
+outer classes cannot be static revision need fast, can make notes sab samajne dekhle kahi written
